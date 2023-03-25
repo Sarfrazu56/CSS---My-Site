@@ -52,6 +52,9 @@ hr {
     left: 300px;
     bottom: 300px;
 }
+.mountain-img {
+    width: 50%;
+}
 .skill-row .web-dev {
     width: 25%;
     float: left;
